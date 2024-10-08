@@ -35,12 +35,10 @@ export default function Home() {
             height={38}
             priority
           />
-          <ol>
-            <li>
-              Get started by editing <code>src/pages/index.js</code>.
-            </li>
-            <li>Save and see your changes instantly.</li>
-          </ol>
+      
+            <h4><i>Normal is an illusion</i> <br></br> By Charles Addams, 
+            associated with The Addams Family movie. It's a reminder that what's normal for one person may be chaos for another.</h4>
+         
 
           <div className={styles.ctas}>
             <a
