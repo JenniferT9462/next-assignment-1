@@ -7,13 +7,6 @@ you become acquainted with Next.js framework and navigate its file structure. Th
 introduces us to Next.js combined with the power of React with it's additional features like sever-side rendering 
 and static site generation. 
 
-## Screenshot of Home Page
-![Home Page](<homePage.png>)
-
-## Screenshot of About Me
-
-![About Me](<aboutMe.png>)
-
 ### Set Up
 
 - In your system terminal make sure you are in the directory that you want your Next app to go. To see where you are you can run:
@@ -92,5 +85,12 @@ and static site generation.
         git remote add origin https://github.com/yourusername/your-repository.git
         git branch -M main
         git push -u origin main
+
+## Screenshot of Home Page
+![Home Page](<homePage.png>)
+
+## Screenshot of About Me
+
+![About Me](<aboutMe.png>)
 
 
