@@ -16,6 +16,18 @@ and static site generation.
 
 ### Set Up
 
+- In your system terminal make sure you are in the directory that you want your Next app to go. To see where you are you can run:
+
+        pwd
+
+- If you need to navigate somewhere else, to see the files in your current directory, you can run:
+
+        ls
+
+- You can move into the correct directory by running:
+
+        cd <desired directory>
+
 - Create a New Next.js Application
     * Run - NOTE: if we run w/out a project name, the terminal will ask us to enter a project name. 
 
@@ -29,12 +41,16 @@ and static site generation.
 
         cd next-assignment-1
 
+- Then you can open a VScode window by running: 
+
+        code .
+
 - Explore the file structure and the directories.
 - Start the dev server by running:
 
         npm run dev
 
-- Open your browser and navigate to http://localhost:3000 to view your home page and see the changes you make in real-time. 
+- Open your browser and navigate to http://localhost:3000 to view your home page and see the changes you make in real-time. NOTE: you can ctrl+click(windows) the link directly from your terminal in VScode.
 
 - Navigate to src/pages/index.js in your editor. 
 
@@ -70,7 +86,10 @@ and static site generation.
             
     * Navigate to http://localhost:3000 in your browser to view your home page, and http://localhost:3000/about to view your about page. 
 
+- Add you Next app to your new repository by running:
 
-
+        git remote add origin https://github.com/yourusername/your-repository.git
+        git branch -M main
+        git push -u origin main
 
 
