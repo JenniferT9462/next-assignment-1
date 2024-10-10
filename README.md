@@ -87,7 +87,7 @@ and static site generation.
     * Navigate to http://localhost:3000 in your browser to view your home page, and http://localhost:3000/about to view your about page. 
 
 - Create a new repository on Github.
-- Add your Next app to your new repository by running:
+- Add your Next app to your new repository by running this in bash terminal:
 
         git remote add origin https://github.com/yourusername/your-repository.git
         git branch -M main
