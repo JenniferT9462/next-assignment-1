@@ -1,11 +1,9 @@
-
+# React with Favorite Quote and About Me 
 
 ## Overview
 
 This project is a basic page made with Next.js. The goal of this assignment is to help
-you become acquainted with Next.js framework and navigate its file structure. This application
-introduces us to Next.js combined with the power of React with it's additional features like sever-side rendering 
-and static site generation. 
+you become acquainted with Next.js framework and navigate its file structure. This application introduces us to Next.js combined with the power of React with it's additional features like sever-side rendering and static site generation. 
 
 ### Set Up
 
@@ -28,7 +26,7 @@ and static site generation.
     
 - You will then be asked a series of questions...
 
-![terminal questions](<terminal.png>)
+    ![terminal questions](<terminal.png>)
 
 - Navigate to your new project by running:
 
