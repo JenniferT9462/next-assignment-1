@@ -36,6 +36,13 @@ you become acquainted with Next.js framework and navigate its file structure. Th
 
         code .
 
+- In your editor's terminal(bash) run:
+
+            npm install
+
+    * To install dependencies
+        
+
 - Explore the file structure and the directories.
 - Start the dev server by running:
 
@@ -70,12 +77,7 @@ you become acquainted with Next.js framework and navigate its file structure. Th
                 }
         ```
             
-- In your editor's terminal(bash) run:
 
-            npm install
-
-    * To install dependencies
-        
 
 - Start the Development Server:
 
