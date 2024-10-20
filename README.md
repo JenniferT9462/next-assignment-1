@@ -68,9 +68,17 @@ you become acquainted with Next.js framework and navigate its file structure. Th
                         </div>
                     );
                 }
-            
         ```
+            
+- In your editor's terminal(bash) run:
+
+            npm install
+
+    * To install dependencies
+        
+
 - Start the Development Server:
+
     * Run: 
 
             npm run dev
